@@ -63,9 +63,7 @@ This template uses [`cookiecutter`][cookiecutter] to provide a starting point fo
 
    You will be prompted for inputs, including providing things like:
 
-   ```
-   + A project name
-   ```
+   - A project name
 
 And that's it!
 
