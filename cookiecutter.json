@@ -1,0 +1,4 @@
+{
+  "project_name": "DEFAULT_PROJECT_NAME",
+  "project_slug": "{{cookiecutter.project_name.casefold()}}"
+}
