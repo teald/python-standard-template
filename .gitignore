@@ -5,6 +5,9 @@
 .venv/
 venv/
 
-# Caches/compiled bytecode
+# Python caches/compiled bytecode
 __pycache__/
 *.pyc
+
+# Pytest caches
+.pytest_cache/
