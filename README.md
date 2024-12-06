@@ -69,6 +69,7 @@ And that's it!
 
 # Reporting problems with this template
 
-Please [raise an issue](/issues) if you find any problems in this template.
+Please [raise an issue][issues] if you find any problems in this template.
 
+[issues]: https://gitlab.com/nsf-noirlab/general-resources/standard-python-template/-/issues
 [cookiecutter]: https://cookiecutter.readthedocs.io/en/stable/
