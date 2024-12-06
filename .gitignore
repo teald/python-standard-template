@@ -1,0 +1,10 @@
+# Nox
+.nox/
+
+# venvs
+.venv/
+venv/
+
+# Caches/compiled bytecode
+__pycache__/
+*.pyc
